@@ -1,5 +1,6 @@
 # 💫 About Me:
-Enthusiastic about DevOps and logical problem-solving, good in analytics, and loves contributing to open source tools<br>
+🚀 Cloud & DevOps Engineer | AWS | Terraform | CI/CD
+Building automated, scalable, and well-monitored cloud infrastructure with real-world production experience.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachin-jayswal-11bbb21b1/) 
