@@ -58,7 +58,7 @@ Building automated, scalable, and well-monitored cloud infrastructure with real-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Becoder16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Contibution Graph
+### Contibution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Becoder16)
 
 
